@@ -35,7 +35,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammed-Safwan-k&show_icons=true&locale=en&layout=compact" alt="Mohammed Safwan" /></p>
                                                                                                
-                                                                                               
+<br>
                                                                                                
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
