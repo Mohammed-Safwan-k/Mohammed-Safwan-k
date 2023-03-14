@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Safwan</h1>
 <h3 align="center">Full Stack (MERN) Developer from India</h3>
+</br>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
-
+</br
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
